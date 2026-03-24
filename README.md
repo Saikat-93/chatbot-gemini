@@ -32,3 +32,5 @@ Open your browser:
 👉 http://localhost:8000
 
 👉 API Docs: http://localhost:8000/docs
+
+Note: i added documentation in this project.
